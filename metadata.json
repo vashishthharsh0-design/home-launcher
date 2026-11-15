@@ -1,0 +1,6 @@
+{
+  "name": "PixelTheme",
+  "description": "Custom pixel-art themed homescreen launcher with smooth gesture navigation optimized for low-end devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

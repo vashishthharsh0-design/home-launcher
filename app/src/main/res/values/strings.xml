@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PixelTheme</string>
+    <string name="launcher_search_hint">Search apps &amp; commands…</string>
+    <string name="drawer_search_hint">Filter installed apps…</string>
+    <string name="at_a_glance_default_subtitle">Swipe up for apps • Swipe left for System Hub</string>
+    <string name="cd_app_icon">%1$s app icon</string>
+    <string name="cd_open_drawer">Open app drawer</string>
+    <string name="cd_open_theme_studio">Open PixelTheme Studio</string>
+    <string name="cd_open_quick_search">Open quick search</string>
+    <string name="cd_close_overlay">Close overlay</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_pin_home">Pin to homescreen</string>
+    <string name="cd_pin_dock">Pin to dock</string>
+    <string name="cd_app_info">Open app info</string>
+    <string name="cd_set_default_launcher">Set as default launcher</string>
+    <string name="cd_low_ram_badge">Low-RAM Lite Mode active</string>
+</resources>
